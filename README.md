@@ -31,8 +31,7 @@ Discover web hosts sharing an IP address with a reverse IP lookup.
 # INSTALL & UPDATE
 To install the tools directly in the system and get new update directly using terminal
 # Installation [Linux](https://fr.wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
-[✓] git clone https://github.com/Manisso/Crips.git
-
+[✓] git clone https://github.com/rizkyyz/crips.git
 [✓] cd Crips && python Crips.py
 
 [◉] 0 : INSTALL & UPDATE
